@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
+    <title>Herbeyg Website</title>
+    <link rel="stylesheet" href="./css/style.css">
+
+    <script type="text/javascript" src="./js/script.js" async></script>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.13.0/css/all.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+</head>
+
+<body>
+
+    <div class="big-container">
+        <video src="./background_animated.mp4" autoplay muted loop></video>
+        <div class="container" id="blur">
+
+            <header>
+                <nav>
+                    <input id="nav-toggle" type="checkbox">
+                    <div class="logo">
+                        <h1>[HR]</h1>
+                    </div>
+                    <ul class="links">
+                        <li><a href="/index.html" class="active transition-left">HOME</a></li>
+                        <li><a href="/portfolio.html" class="transition-left">PORTFOLIO</a></li>
+                        <li><a href="/skills.html" class="transition-left">SKILLS</a></li>
+                        <li><a href="/contact.html" class="transition-left">CONTACT</a></li>
+                    </ul>
+                    <label for="nav-toggle" class="icon-burger">
+                        <div class="line"></div>
+                        <div class="line"></div>
+                        <div class="line"></div>
+                    </label>
+                </nav>
+            </header>
+
+            <div class="animate__animated animate__slideInLeft">
+                <div class="flexbox-container">
+
+                    <div class="flexbox-item flexbox-item-1">
+                        <div class="home-img">
+                            <div class="img-box">
+                                <img src="./img/profile-picture2.png" alt="profile-imgr">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flexbox-item flexbox-item-2">
+                        <section>
+                            <h2>Hello, my name is</h2>
+                            <h1>Herbeyg Robledo</h1>
+                            <p>Information Technology Enginner</p>
+                            <a href="docs/HERBEYG_ROBLEDO_REYES_RESUME.pdf" class="active" target="_blank">Resume &nbsp;
+                                <i class="fa fa-download fa-lg" aria-hidden="true"></i></a>
+                        </section>
+                    </div>
+
+                    <div class="flexbox-item flexbox-item-3">
+                        <div class="titulos">
+                            <p>FEATURED</p>
+                            <h3>PROJECTS</h3>
+                        </div>
+                        <section>
+                            <div class="card-container">
+
+                                <div class="card">
+                                    <img src="./img/image1.png">
+                                    <h4>3D design in blender</h4>
+                                    <p>From adventure time a 3D model based on the
+                                        popular characters Finn and Jake.</p>
+                                    <a href="#" class="active" data-target="#modal1">Read more</a>
+                                    <!--<a href="#" class="btn-open-popup" data-target="#modal1">Read more</a> -->
+                                </div>
+
+                                <div class="card">
+                                    <img src="./img/image2.png">
+                                    <h4>Isometric gamecube</h4>
+                                    <p>A Gamecube rotating from an isometric perspective
+                                        created in After effects.</p>
+                                    <a href="#" class="active" data-target="#modal2">Read more</a>
+                                </div>
+
+                                <div class="card">
+                                    <img src="./img/image3.png">
+                                    <h4>3D animation in Blender</h4>
+                                    <p>An original character created in Blender for a game that is under
+                                        development.
+                                    </p>
+                                    <a href="#" class="active" data-target="#modal6">Read more</a>
+                                </div>
+
+                                <div class="card">
+                                    <img src="./img/image4.png">
+                                    <h4>2D animation in Ae</h4>
+                                    <p>An original character created in After Effects performing different animations.
+                                    </p>
+                                    <a href="#" class="active" data-target="#modal10">Read more</a>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+
+                <footer>
+                    <p> Copyright © Herbeyg Robledo Reyes. All rights reserved</p>
+                </footer>
+                </section>
+            </div>
+        </div>
+
+        <!--FIRST MODAL-->
+        <div class="container-all">
+            <div class="modal popup" id="modal1">
+                <div class="container-text">
+
+                    <h2>3D Model of Finn & Jake</h2>
+                    <p>From Adventure Time a 3D model based on the popular characters Finn and Jake, made in blender
+                        2.9
+                        as well as other elements such as the first sword that the main character used during the
+                        series,
+                        the texturing of the characters is done in such a way that look like it was made with clay.
+                        The
+                        rendering was done with cycles, if you want to see the final result you can visit the
+                        youtube
+                        link to see the video.</p>
+                </div>
+                <p>#3DDesign #Blender #AdventureTime</p><a href="https://youtu.be/Pye8qpnJbTI" class="actived"
+                    target="_blank"> Youtube link</a></i>
+
+                <div class="container-all">
+                    <input type="radio" id="1" name="image-slide" hidden />
+                    <input type="radio" id="2" name="image-slide" hidden />
+                    <input type="radio" id="3" name="image-slide" hidden />
+
+
+                    <div class="slide">
+                        <div class="item-slide">
+                            <img src="./img/image-finn1.png">
+                        </div>
+
+                        <div class="item-slide">
+                            <img src="./img/image-finn2.png">
+                        </div>
+
+                        <div class="item-slide">
+                            <img src="./img/image-finn3.png">
+                        </div>
+                    </div>
+
+                    <div class="pagination">
+                        <label class="pagination-item" for="1"></label>
+                        <label class="pagination-item" for="2"></label>
+                        <label class="pagination-item" for="3"></label>
+                    </div>
+                </div>
+                <a href="#" onclick="toggle()" class="btn modal-btn">X</a>
+            </div>
+        </div>
+        <!--END OF THE FRIST MODAL-->
+
+
+        <!-- SECOND MODAL -->
+        <div class="container-all">
+            <div class="modal popup" id="modal2">
+
+                <div class="container-text">
+                    <h2>Isometric Gamecube</h2>
+                    <p>An animation of a retro console rotating 360° from an isometric perspective
+                        created in After effects.</p>
+                </div>
+                <p>#AfterEffects #GameCube #Retro</p>
+                <img src="./img/GameCube.gif">
+                <a href="#" class="btn modal-btn">X</a>
+            </div>
+        </div>
+
+        <!--END OF THE SECOND MODAL-->
+
+        <!-- SIXTH MODAL -->
+        <div class="container-all">
+            <div class="modal popup" id="modal6">
+
+                <div class="container-text">
+                    <h2>Low poly Cop in blender</h2>
+                    <p>An original character created to be the hero in an upcoming videogame I'm working on,
+                        he is will be the main character that will save the day by defeating the army or
+                        evil orcs.
+                    </p>
+                </div>
+                <p>#3DDesign #Blender #Animation</p><a href="https://youtu.be/UhnphmrfwF4" class="actived"
+                    target="_blank"> Youtube link</a></i>
+
+                <div class="container-all">
+                    <input type="radio" id="10" name="image-slide" hidden />
+                    <input type="radio" id="11" name="image-slide" hidden />
+                    <input type="radio" id="12" name="image-slide" hidden />
+
+
+                    <div class="slide">
+                        <div class="item-slide">
+                            <img src="./img/image-poli1.png">
+                        </div>
+
+                        <div class="item-slide">
+                            <img src="./img/image-poli2.png">
+                        </div>
+
+                        <div class="item-slide">
+                            <img src="./img/image-poli3.png">
+                        </div>
+                    </div>
+
+                    <div class="pagination">
+                        <label class="pagination-item" for="10"></label>
+                        <label class="pagination-item" for="11"></label>
+                        <label class="pagination-item" for="12"></label>
+                    </div>
+                </div>
+
+
+                <a href="#" class="btn modal-btn">X</a>
+            </div>
+        </div>
+        <!--END OF THE SIXTH MODAL-->
+
+        <!-- TENTH MODAL -->
+        <div class="container-all">
+            <div class="modal popup" id="modal10">
+
+                <div class="container-text">
+                    <h2>2D animation in After effects</h2>
+                    <p>An original character created in Adobe Illustrator and exported to
+                        After Effects to animate him to perform various actions such as walking,
+                        Jumping, punching and resting.
+                    </p>
+                </div>
+                <p>#AfterEffects #2DDesign #Animation</p>
+                <img src="./img/Character1.gif">
+                <a href="#" class="btn modal-btn">X</a>
+            </div>
+        </div>
+        <!--END OF THE TENTH MODAL-->
+
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Herbeyg Website</title>
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./css/styleForm.css">
+  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.13.0/css/all.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+</head>
+
+<body>
+
+  <div class="big-container">
+    <video src="./background_animated.mp4" autoplay muted loop></video>
+    <div class="container">
+
+      <header>
+        <nav>
+          <input id="nav-toggle" type="checkbox">
+          <div class="logo">
+            <h1>[HR]</h1>
+          </div>
+          <ul class="links">
+            <li><a href="/index.html" class="transition-left">HOME</a></li>
+            <li><a href="/portfolio.html" class="transition-left">PORTFOLIO</a></li>
+            <li><a href="/skills.html" class="transition-left">SKILLS</a></li>
+            <li><a href="/contact.html" class="active transition-left">CONTACT</a></li>
+          </ul>
+          <label for="nav-toggle" class="icon-burger">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+          </label>
+        </nav>
+      </header>
+
+      <div class="animate__animated animate__slideInLeft">
+        <!--CONTENT-->
+        <div class="flexbox-item flexbox-item-4">
+          <div class="titulos">
+            <p>Let's get in</p>
+            <h3>touch</h3>
+          </div>
+        </div>
+        <section>
+          <div class="flexbox-container">
+            <div class="form">
+              <div class="contact-info">
+                <h3 class="title"></h3>
+                <p>
+                  Feel free to get in touch with me. I am always open to discussing new projects,
+                  creative ideas or opportunities.
+                </p>
+
+                <div class="info">
+                  <div class="information">
+                    <i class="fas fa-map-marker-alt fa 2x"></i>
+                    <hr>
+                    <p> &ensp;Durango, Dgo., Mexico</p>
+                  </div>
+                  <div class="information">
+                    <i class="far fa-envelope fa 2x"></i>
+                    <p> &ensp;HerbeygRobledo@gmail.com</p>
+                  </div>
+                </div>
+
+                <div class="social-media">
+                  <p>Connect with me :</p>
+                  <a href="https://www.linkedin.com/in/herbeyg-robledo-reyes-7b4488123" target="_blank">
+                    <i class="fab fa-linkedin fa-2x"></i>
+                  </a>
+                  <a href="https://github.com/HerbeygR" target="_blank">
+                    <i class="fab fa-github fa-2x"></i>
+                  </a>
+                  <a href="https://www.youtube.com/channel/UCT4pQVPMO1X5CYjQh4NXhJw" target="_blank">
+                    <i class="fab fa-youtube fa-2x"></i>
+                  </a>
+                  <a href="https://discordapp.com/users/7847/" target="_blank">
+                    <i class="fab fa-discord fa-2x"></i>
+                  </a>
+                </div>
+              </div>
+
+              <div class="contact-form" form name="contact" method="POST" data-netlify="true">
+                <form action="index.html" autocomplete="off">
+                  <h3 class="title">Say something</h3>
+                  <div class="input-container">
+                    <input type="text" name="name" class="input" placeholder="Name" />
+                  </div>
+                  <div class="input-container">
+                    <input type="email" name="email" class="input" placeholder="Email" />
+                  </div>
+                  <div class="input-container">
+                    <input type="tel" name="subject" class="input" placeholder="Subject" />
+                  </div>
+                  <div class="input-container textarea">
+                    <textarea name="message" class="input" placeholder="Message"></textarea>
+                  </div>
+               <!--    <input type="submit" value="Send" class="btn" /> -->
+                  <button class="btn" type="submit">Send</button>
+                </form>
+              </div>
+            </div>
+          </div>
+        </section>
+        <footer>
+          <p> Copyright © Herbeyg Robledo Reyes. All rights reserved</p>
+        </footer>
+      </div>
+    </div>
+</body>
+</html>
