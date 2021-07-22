@@ -193,7 +193,7 @@ header .logo h1{
         float: none;
         width: auto;
         justify-content: center;
-        margin-top: 20px;
+        margin-top: 28px;
     }
     nav .links{
         float: none;
@@ -222,7 +222,7 @@ header .logo h1{
 
     nav .icon-burger{
         display: block;
-        margin-top: 20px;
+        margin-top: 28px;
     }
 
     nav :checked ~ .icon-burger .line:nth-child(1){
