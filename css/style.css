@@ -532,6 +532,7 @@ BLUR ACTIVE POPUP
     visibility: hidden;
     opacity: 0;
     overflow-y: scroll;
+    overflow-y: hidden;
     z-index: 10;
 }
 
@@ -584,6 +585,7 @@ BLUR ACTIVE POPUP
     line-height: 10px;
 }
 
+
 /* Laptop */  
 @media only screen   and (min-width: 648px)   and (max-width: 1366px)  
 { 
@@ -633,12 +635,26 @@ BLUR ACTIVE POPUP
     
 }
 
+/*IPHONE*/
 @media screen and (max-width: 375px) {
     .popup{
         flex-direction: column;
         height: auto;
         max-height: 700px;
         width: 100%;
+        overflow-y: scroll;
+
+    }
+
+}
+
+@media screen and (max-width: 320px) {
+    .popup{
+        flex-direction: column;
+        height: auto;
+        max-height: 480px;
+        width: 100%;
+        overflow-y: scroll;
 
     }
     
