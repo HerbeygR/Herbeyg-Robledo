@@ -584,14 +584,14 @@ BLUR ACTIVE POPUP
     line-height: 10px;
 }
 
-@media only screen   and (min-width : 768px)   and (max-width : 1366px)  
+/* Laptop */  
+@media only screen   and (min-width: 648px)   and (max-width: 1366px)  
 { 
-
     .popup{
-        width: 600px;
-        padding: 30px;
+        width: 100%;
+        height: 100%;
     }
-}
+} 
 
 @media (max-height: 480px) {
     .popup{
@@ -1065,15 +1065,3 @@ PARALLAX
     display: block;
     width: 20%;
 }
-
-@media screen and (min-width: 320px) and (max-width: 767px) and (orientation: landscape) {
-    html {
-      transform: rotate(-90deg);
-      transform-origin: left top;
-      width: 100vh;
-      overflow-x: hidden;
-      position: absolute;
-      top: 100%;
-      left: 0;
-    }
-  }

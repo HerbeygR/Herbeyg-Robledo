@@ -66,22 +66,22 @@
         left top, left bottom,
         from(rgba(10,10,10,0)),
         color-stop(50%, rgba(10,10,10,0)),
-        to(rgba(10,10,10,0.7))),url('img/image1.png');
+        to(rgba(10,10,10,0.7))),url('https://i.imgur.com/zDMT39zl.png');
     background-image: -webkit-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image1.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/zDMT39zl.png');
     background-image: -o-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image1.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/zDMT39zl.png');
     background-image: linear-gradient(
         to bottom,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 20%,
-        rgba(10,10,10,0.7) 60%),url('img/image1.png');
+        rgba(10,10,10,0.7) 60%),url('https://i.imgur.com/zDMT39zl.png');
 }
 
 .card:nth-child(2) {
@@ -90,22 +90,22 @@
         left top, left bottom,
         from(rgba(10,10,10,0)),
         color-stop(50%, rgba(10,10,10,0)),
-        to(rgba(10,10,10,0.7))),url('img/image2.png');
+        to(rgba(10,10,10,0.7))),url('https://i.imgur.com/Bc1y4KLl.png');
     background-image: -webkit-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image2.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/Bc1y4KLl.png');
     background-image: -o-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image2.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/Bc1y4KLl.png');
     background-image: linear-gradient(
         to bottom,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 20%,
-        rgba(10,10,10,0.7) 60%),url('img/image2.png');
+        rgba(10,10,10,0.7) 60%),url('https://i.imgur.com/Bc1y4KLl.png');
 }
 
 .card:nth-child(3) {
@@ -114,22 +114,22 @@
         left top, left bottom,
         from(rgba(10,10,10,0)),
         color-stop(50%, rgba(10,10,10,0)),
-        to(rgba(10,10,10,0.7))),url('img/image6.png');
+        to(rgba(10,10,10,0.7))),url('https://i.imgur.com/GCmKFO7l.png');
     background-image: -webkit-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image6.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/GCmKFO7l.png');
     background-image: -o-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image6.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/GCmKFO7l.png');
     background-image: linear-gradient(
         to bottom,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 20%,
-        rgba(10,10,10,0.7) 60%),url('img/image6.png');
+        rgba(10,10,10,0.7) 60%),url('https://i.imgur.com/GCmKFO7l.png');
 }
 
 .card:nth-child(4) {
@@ -138,22 +138,22 @@
         left top, left bottom,
         from(rgba(10,10,10,0)),
         color-stop(50%, rgba(10,10,10,0)),
-        to(rgba(10,10,10,0.7))),url('img/image10.png');
+        to(rgba(10,10,10,0.7))),url('https://i.imgur.com/Ta1TfY6l.png');
     background-image: -webkit-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image10.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/Ta1TfY6l.png');
     background-image: -o-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image10.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/Ta1TfY6l.png');
     background-image: linear-gradient(
         to bottom,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 20%,
-        rgba(10,10,10,0.7) 60%),url('img/image10.png');
+        rgba(10,10,10,0.7) 60%),url('https://i.imgur.com/Ta1TfY6l.png');
 }
 
 .card:nth-child(5) {
@@ -162,22 +162,22 @@
         left top, left bottom,
         from(rgba(10,10,10,0)),
         color-stop(50%, rgba(10,10,10,0)),
-        to(rgba(10,10,10,0.7))),url('img/image5v.png');
+        to(rgba(10,10,10,0.7))),url('https://i.imgur.com/hyzAx4Ql.png');
     background-image: -webkit-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image5v.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/hyzAx4Ql.png');
     background-image: -o-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image5v.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/hyzAx4Ql.png');
     background-image: linear-gradient(
         to bottom,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 20%,
-        rgba(10,10,10,0.7) 60%),url('img/image5v.png');
+        rgba(10,10,10,0.7) 60%),url('https://i.imgur.com/hyzAx4Ql.png');
 }
 
 .card:nth-child(6) {
@@ -186,22 +186,22 @@
         left top, left bottom,
         from(rgba(10,10,10,0)),
         color-stop(50%, rgba(10,10,10,0)),
-        to(rgba(10,10,10,0.7))),url('img/image3.png');
+        to(rgba(10,10,10,0.7))),url('https://i.imgur.com/lpQggJHl.png');
     background-image: -webkit-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image3.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/lpQggJHl.png');
     background-image: -o-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image3.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/lpQggJHl.png');
     background-image: linear-gradient(
         to bottom,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 20%,
-        rgba(10,10,10,0.7) 60%),url('img/image3.png');
+        rgba(10,10,10,0.7) 60%),url('https://i.imgur.com/lpQggJHl.png');
 }
 
 .card:nth-child(7) {
@@ -210,22 +210,22 @@
         left top, left bottom,
         from(rgba(10,10,10,0)),
         color-stop(50%, rgba(10,10,10,0)),
-        to(rgba(10,10,10,0.7))),url('img/image8.png');
+        to(rgba(10,10,10,0.7))),url('https://i.imgur.com/zw9Yi5jl.png');
     background-image: -webkit-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image8.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/zw9Yi5jl.png');
     background-image: -o-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image8.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/zw9Yi5jl.png');
     background-image: linear-gradient(
         to bottom,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 20%,
-        rgba(10,10,10,0.7) 60%),url('img/image8.png');
+        rgba(10,10,10,0.7) 60%),url('https://i.imgur.com/zw9Yi5jl.png');
 }
 
 .card:nth-child(8) {
@@ -234,22 +234,22 @@
         left top, left bottom,
         from(rgba(10,10,10,0)),
         color-stop(50%, rgba(10,10,10,0)),
-        to(rgba(10,10,10,0.7))),url('img/image7v.png');
+        to(rgba(10,10,10,0.7))),url('https://i.imgur.com/SkyzRhEl.png');
     background-image: -webkit-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image7v.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/SkyzRhEl.png');
     background-image: -o-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image7v.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/SkyzRhEl.png');
     background-image: linear-gradient(
         to bottom,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 20%,
-        rgba(10,10,10,0.7) 60%),url('img/image7v.png');
+        rgba(10,10,10,0.7) 60%),url('https://i.imgur.com/SkyzRhEl.png');
 }
 
 .card:nth-child(9) {
@@ -258,22 +258,22 @@
         left top, left bottom,
         from(rgba(10,10,10,0)),
         color-stop(50%, rgba(10,10,10,0)),
-        to(rgba(10,10,10,0.7))),url('img/image9v.png');
+        to(rgba(10,10,10,0.7))),url('https://i.imgur.com/oAxQHPZl.png');
     background-image: -webkit-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image9v.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/oAxQHPZl.png');
     background-image: -o-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image9v.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/oAxQHPZl.png');
     background-image: linear-gradient(
         to bottom,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 20%,
-        rgba(10,10,10,0.7) 60%),url("img/image9v.png");
+        rgba(10,10,10,0.7) 60%),url("https://i.imgur.com/oAxQHPZl.png");
 }
 
 .card:nth-child(10) {
@@ -282,22 +282,22 @@
         left top, left bottom,
         from(rgba(10,10,10,0)),
         color-stop(50%, rgba(10,10,10,0)),
-        to(rgba(10,10,10,0.7))),url('img/image4.png');
+        to(rgba(10,10,10,0.7))),url('https://i.imgur.com/EMPj743l.png');
     background-image: -webkit-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image4.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/EMPj743l.png');
     background-image: -o-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image4.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/EMPj743l.png');
     background-image: linear-gradient(
         to bottom,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 20%,
-        rgba(10,10,10,0.7) 60%),url('img/image4.png');
+        rgba(10,10,10,0.7) 60%),url('https://i.imgur.com/EMPj743l.png');
 }
 
 .card:nth-child(11) {
@@ -306,22 +306,22 @@
         left top, left bottom,
         from(rgba(10,10,10,0)),
         color-stop(50%, rgba(10,10,10,0)),
-        to(rgba(10,10,10,0.7))),url('img/image11.png');
+        to(rgba(10,10,10,0.7))),url('https://i.imgur.com/7h5NQn8l.png');
     background-image: -webkit-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image11.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/7h5NQn8l.png');
     background-image: -o-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('img/image11.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/7h5NQn8l.png');
     background-image: linear-gradient(
         to bottom,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 20%,
-        rgba(10,10,10,0.7) 60%),url('img/image11.png');
+        rgba(10,10,10,0.7) 60%),url('https://i.imgur.com/7h5NQn8l.png');
 }
 
 .card:nth-child(12) {
@@ -330,22 +330,22 @@
         left top, left bottom,
         from(rgba(10,10,10,0)),
         color-stop(50%, rgba(10,10,10,0)),
-        to(rgba(10,10,10,0.7))),url("./img/image12.png");
+        to(rgba(10,10,10,0.7))),url('https://i.imgur.com/oPAOLAQl.png');
     background-image: -webkit-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('./img/image12.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/oPAOLAQl.png');
     background-image: -o-linear-gradient(
         top,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 50%,
-        rgba(10,10,10,0.7) 100%),url('./img/image12.png');
+        rgba(10,10,10,0.7) 100%),url('https://i.imgur.com/oPAOLAQl.png');
     background-image: linear-gradient(
         to bottom,
         rgba(10,10,10,0) 0%,
         rgba(10,10,10,0) 20%,
-        rgba(10,10,10,0.7) 60%),url('./img/image12.png');
+        rgba(10,10,10,0.7) 60%),url('https://i.imgur.com/oPAOLAQl.png');
 }
 
 .card:nth-child(1),:nth-child(6),:nth-child(7),:nth-child(12) {
